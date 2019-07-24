@@ -25,6 +25,7 @@
 * [Comics](#comics)
 * [Tutorials](#tutorials)
 * [Other Awesome Lists](#other-awesome-lists)
+* [Comics](#comics)
 
 ## Information
 
@@ -169,3 +170,7 @@ In addition, you can find [ML map](https://github.com/trekhleb/homemade-machine-
 *  [Machine Learning for Programming](https://ml4p.org/)
 *  [CamAIML](https://www.microsoft.com/en-us/research/event/artificial-intelligence-and-machine-learning-in-cambridge-2017/)
     * [Learning to Code: Machine Learning for Program Induction](https://www.youtube.com/watch?v=vzDuVhFMB9Q) - Alexander Gaunt.
+    
+    
+## Comics
+
